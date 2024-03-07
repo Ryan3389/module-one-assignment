@@ -11,4 +11,4 @@ This is a website for a marketing agency specializing in SEO and social media ma
 ## Visuals 
 Here is a screenshot of the [deployed website](/images/deployed-full.png)
 
-Here is a link to the deployed website: https://ryan3389.github.io/module-one-assignment/#social-media-marketing
+Here is a link to the deployed website: https://ryan3389.github.io/module-one-assignment/
